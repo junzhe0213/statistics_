@@ -1,0 +1,7 @@
+C:\git\statistics\statistics\statistics\bin\Debug\statistics.exe.config
+C:\git\statistics\statistics\statistics\bin\Debug\statistics.exe
+C:\git\statistics\statistics\statistics\bin\Debug\statistics.pdb
+C:\git\statistics\statistics\statistics\obj\Debug\statistics.csprojResolveAssemblyReference.cache
+C:\git\statistics\statistics\statistics\obj\Debug\statistics.csproj.CoreCompileInputs.cache
+C:\git\statistics\statistics\statistics\obj\Debug\statistics.exe
+C:\git\statistics\statistics\statistics\obj\Debug\statistics.pdb
